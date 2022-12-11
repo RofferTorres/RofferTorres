@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 📈 I’m currently studying Data Analysis and Computer Science
-- 🌱 I'm currently learning Statistics, R
+- 🌱 I'm currently learning R
 - 📧 How to reach me: vtrg18@gmail.com
 - ⚡ Fun fact: Photography enthusiast and F1 fanatic
 ### Skills
