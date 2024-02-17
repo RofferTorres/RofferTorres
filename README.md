@@ -8,7 +8,7 @@ I'm a Data Analyst/Data Engineer who works developing custom solutions in Python
 Here are some ideas to get you started:
 -->
 - 📈 I’m currently working on python pipelines solutions and studing Computer Science
-- 🌱 I'm currently learning advanced python and Django framework to start a new webapp project.
+- 🌱 I'm currently learning advanced python and Django framework to start a new personal webapp project.
 - 📧 How to reach me: vtrg18@gmail.com
 - ⚡ Fun fact: Photography enthusiast and F1 fanatic
 ### Skills
