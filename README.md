@@ -87,4 +87,5 @@ Photography lover and Formula 1 addict 🚀📸
 <p>
   <img alt="Photoshop" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
   <img alt="PremierePro" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>
+  <img alt="Lightroom" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroomclassic.svg"/>
 </p>
