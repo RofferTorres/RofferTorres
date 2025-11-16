@@ -53,38 +53,38 @@ Photography lover and Formula 1 addict 🚀📸
 ### 🛠️ Tech Stack
 
 **Languages & Backend**  
-[<img alt="Python" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>](https://www.python.org/)  
-[<img alt="FastAPI" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>](https://fastapi.tiangolo.com/)  
-[<img alt="Kafka" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"/>](https://kafka.apache.org/)  
-[<img alt="SQL" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>](https://www.mysql.com/)  
+<p>
+  <img alt="Python" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
+  <img alt="FastAPI" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>
+  <img alt="Kafka" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"/>
+  <img alt="SQL" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+</p>
 
 **AI / Machine Learning / LLM Ecosystem**  
-[<img alt="OpenAI" width="54px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg"/>](https://openai.com/)  
-[<img alt="LangChain" width="54px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg"/>](https://www.langchain.com/)  
-[<img alt="HuggingFace" width="54px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg"/>](https://huggingface.co/)  
-[<img alt="Ollama" width="54px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg"/>](https://ollama.com/)  
-[<img alt="LLMs" width="54px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebard.svg"/>](https://ai.google/)  
-
-Technologies:  
-- LLM Automation (OpenAI, Ollama)  
-- Chatbot Development (FastAPI + LLMs)  
-- LangChain / Swarm Agents  
-- RAG (Retrieval-Augmented Generation)  
-- Vector Databases (FAISS / ChromaDB)  
-- Prompt Engineering & AI-driven pipelines  
+<p>
+  <img alt="OpenAI" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg"/>
+  <img alt="LangChain" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg"/>
+  <img alt="HuggingFace" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg"/>
+  <img alt="Ollama" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg"/>
+  <img alt="LLM" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebard.svg"/>
+</p>
 
 **Data Engineering & Analytics**  
-[<img alt="Airflow" height="54px" src="https://airflow.apache.org/images/feature-image.png"/>](https://airflow.apache.org/)  
-[<img alt="Pandas" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"/>](https://pandas.pydata.org/)  
-[<img alt="BigQuery" width="54px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"/>](https://cloud.google.com/bigquery)
+<p>
+  <img alt="Airflow" width="50" style="margin-right:15px;" src="https://airflow.apache.org/images/feature-image.png"/>
+  <img alt="Pandas" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"/>
+  <img alt="BigQuery" width="50" style="margin-right:15px;" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"/>
+</p>
 
 **Cloud & Tools**  
-[<img alt="GCP" width="54px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>](https://cloud.google.com/)  
-[<img alt="Git" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>](https://git-scm.com/)  
-[<img alt="Talend" height="54px" src="https://www.talend.com/images/logo-talend-logomark.png"/>](https://www.talend.com/)  
+<p>
+  <img alt="GCP" width="50" style="margin-right:15px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
+  <img alt="Git" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="Talend" width="50" style="margin-right:15px;" src="https://www.talend.com/images/logo-talend-logomark.png"/>
+</p>
 
 **Creative Stuff**  
-[<img alt="Photoshop" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>](https://www.adobe.com/products/photoshop/)  
-[<img alt="PremierePro" width="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>](https://www.adobe.com/products/premiere.html)
-
----
+<p>
+  <img alt="Photoshop" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
+  <img alt="PremierePro" width="50" style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>
+</p>
